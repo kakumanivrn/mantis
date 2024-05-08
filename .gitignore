@@ -5,3 +5,5 @@ book
 src
 stacks
 docker/configs
+.env
+configs
